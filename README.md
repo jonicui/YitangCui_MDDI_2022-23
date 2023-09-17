@@ -1,5 +1,6 @@
-# Mugu 2054
-Mushroom Cultivation with Coffee Ground Waste
+# mugu 2054
+#food localization 
+cultivate mushroom with coffee ground waste.
 This project aims to teach local citizens how to grow mushrooms with coffee ground waste, which can help reduce greenhouse gas emissions.
 
 ## Table of Contents
